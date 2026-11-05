@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2025 aas-core3.1-python AUTHORS
+#
+# SPDX-License-Identifier: MIT
+
 """Test JSON de/serialization of concrete classes."""
 
 

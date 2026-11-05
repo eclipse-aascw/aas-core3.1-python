@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2025 aas-core3.1-python AUTHORS
+#
+# SPDX-License-Identifier: MIT
+
 [build-system]
 requires = ["setuptools>=61", "wheel"]
 build-backend = "setuptools.build_meta"
@@ -19,7 +23,8 @@ dependencies = [
     "twine",
     "requests==2.32.4",
     "types-requests==2.32.4.20250913",
-    "aas-core-codegen==0.0.19"
+    "aas-core-codegen==0.0.19",
+    "reuse==6.3.0"
 ]
 
 [tool.setuptools]
