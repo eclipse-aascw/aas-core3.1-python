@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2025 aas-core3.1-python AUTHORS
+#
+# SPDX-License-Identifier: MIT
+
 """Check that meta-data in ``pyproject.toml`` and ``__init__.py`` are consistent."""
 
 import os.path

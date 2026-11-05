@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2025 aas-core3.1-python AUTHORS
+#
+# SPDX-License-Identifier: MIT
+
 """
 Test jointly :py:method:`aas_core3_1.types.Class.descend` and
 :py:method:`aas_core3_1.types.PassThroughVisitor`.
