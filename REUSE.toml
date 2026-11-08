@@ -43,6 +43,7 @@ SPDX-License-Identifier = "MIT"
 # The specifications published by IDTA are licensed under CC BY 4.0.
 [[annotations]]
 path = [
+    "aas_core3_1/constants.py",
     "aas_core3_1/types.py",
     "aas_core3_1/verification.py",
     "dev/dev_scripts/codegen/meta_model.py",
